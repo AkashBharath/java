@@ -13,8 +13,11 @@ public class NumProgram {
 
 	        if (num == sum)
 	            System.out.println("Armstrong number");
-	        else
+	    
+	        else 
 	            System.out.println("Not an Armstrong number");
+	        System.out.println();
+	        
 	    }
 	}
 
