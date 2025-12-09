@@ -11,9 +11,7 @@ public class NumProgram {
 	            temp /= 10;
 	        }
 
-	        if (num == sum)
-	            System.out.println("Armstrong number");
-	        else
+	    
 	            System.out.println("Not an Armstrong number");
 	        System.out.println("program is correct");
 	    }
