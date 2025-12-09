@@ -15,6 +15,7 @@ public class NumProgram {
 	            System.out.println("Armstrong number");
 	        else
 	            System.out.println("Not an Armstrong number");
+	        System.out.println("program is correct");
 	    }
 	}
 
